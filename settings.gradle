@@ -1,0 +1,3 @@
+rootProject.name = 'spring-studay'
+include 'spirng-studay-eureka-server'
+
